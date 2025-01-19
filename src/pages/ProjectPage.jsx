@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
-import samabaiImage from '../assets/experience.jpg';
+import samabaiImage from '../assets/Experience.jpg';
 import emailAIImage from '../assets/emailai.jpg';
 import petCareImage from '../assets/petcare.jpg';
 import quizioImage from '../assets/quizio.jpg';
